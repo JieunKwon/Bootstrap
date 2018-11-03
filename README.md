@@ -28,6 +28,7 @@
 > The Bootstrap CDN
    
     For faster loading time.
+    
     Many users already have downloaded Bootstrap from MaxCDN when visiting another site. 
     As a result, it will be loaded from cache when they visit your site, which leads to faster loading time. 
     Also, most CDN's will make sure that once a user requests a file from it, 
